@@ -55,7 +55,7 @@ The target is `Time_taken(min)`.
 
 ## Tech stack
 
-Python · pandas · NumPy · Matplotlib · seaborn · scikit-learn · joblib
+Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Joblib
 
 ---
 
